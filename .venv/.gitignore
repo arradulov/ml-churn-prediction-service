@@ -1,0 +1,13 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Логи и системные файлы
+*.log
+.DS_Store

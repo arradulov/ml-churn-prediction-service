@@ -1,0 +1,23 @@
+churn-ml-service/
+│
+├── data/
+│   └── raw dataset
+│
+├── notebooks/
+│   └── EDA.ipynb
+│
+├── src/
+│   ├── train.py
+│   ├── predict.py
+│   ├── preprocessing.py
+│   └── config.py
+│
+├── app/
+│   └── main.py  (FastAPI)
+│
+├── models/
+│   └── model.pkl
+│
+├── requirements.txt
+├── README.md
+└── Dockerfile (если успеешь)
